@@ -3,7 +3,7 @@ from telebot import types
 
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot_token = "6261425349:AAHDEepvXBWlmmL0cu-vSDr6_ZF86K1amyI"
+bot_token = "6155533038:AAHsLsi4uDo3MHhxwAY7G_GrVRFLCmjiFMU"
 
 bot = telebot.TeleBot(bot_token)
 
